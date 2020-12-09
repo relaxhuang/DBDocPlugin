@@ -8,3 +8,6 @@
 
 ## datadict_grt.py is from github
 > https://github.com/lacek/wb-datadict
+
+## mysql-workbench-plugin-doc-generating.py
+> https://github.com/letrunghieu/mysql-workbench-plugin-doc-generating
