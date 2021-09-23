@@ -26,7 +26,7 @@ def htmlDataDictionary(catalog):
     # iterate through columns from schema
     schema = catalog.schemata[0]
     htmlFile = open(htmlOut, "w")
-    htmlFile.write( "<html><head> \m")
+    htmlFile.write( "<html><head> \n")
     htmlFile.write( "<title>Schema Report for database: %s</title> \n" % (schema.name))
     htmlFile.write( """<style>
         td,th {
